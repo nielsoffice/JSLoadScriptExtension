@@ -25,8 +25,8 @@ JavaScript jQuery load or import or get extension JavaScript file within the fol
 
  deep.prototype.init = function() {
   
-   let extention = this.data;
-   console.log(extention);
+   let extension = this.data;
+   console.log(extension);
    
  }	
  
