@@ -64,3 +64,8 @@ const deeply = function( d )  {
 </body>
 </html>
 ```
+
+```JS
+// Console.log Result
+// This is js-extension 2
+```
